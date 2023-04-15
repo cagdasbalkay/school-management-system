@@ -1,0 +1,50 @@
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders46-OkulProjesi\bin\Debug\Ders46-OkulProjesi.exe.config
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders46-OkulProjesi\bin\Debug\Ders46-OkulProjesi.exe
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders46-OkulProjesi\bin\Debug\Ders46-OkulProjesi.pdb
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders46-OkulProjesi\obj\Debug\Ders46-OkulProjesi.csproj.AssemblyReference.cache
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders46-OkulProjesi\obj\Debug\Ders46_OkulProjesi.Form1.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders46-OkulProjesi\obj\Debug\Ders46_OkulProjesi.Properties.Resources.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders46-OkulProjesi\obj\Debug\Ders46-OkulProjesi.csproj.GenerateResource.cache
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders46-OkulProjesi\obj\Debug\Ders46-OkulProjesi.csproj.CoreCompileInputs.cache
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders46-OkulProjesi\obj\Debug\Ders46-OkulProjesi.exe
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders46-OkulProjesi\obj\Debug\Ders46-OkulProjesi.pdb
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders46-OkulProjesi\obj\Debug\Ders46_OkulProjesi.FrmOgrenciNotlar.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders46-OkulProjesi\obj\Debug\Ders46_OkulProjesi.FrmOgretmen.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders46-OkulProjesi\obj\Debug\Ders46_OkulProjesi.FrmKulup.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders46-OkulProjesi\obj\Debug\Ders46_OkulProjesi.FrmDersler.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders46-OkulProjesi\obj\Debug\Ders46_OkulProjesi.FrmOgrenci.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\Ders46-OkulProjesi\obj\Debug\Ders46_OkulProjesi.FrmSinavNotlari.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders46-OkulProjesi\bin\Debug\Ders46-OkulProjesi.exe.config
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders46-OkulProjesi\bin\Debug\Ders46-OkulProjesi.exe
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders46-OkulProjesi\bin\Debug\Ders46-OkulProjesi.pdb
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders46-OkulProjesi\obj\Debug\Ders46-OkulProjesi.csproj.AssemblyReference.cache
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders46-OkulProjesi\obj\Debug\Ders46-OkulProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders46-OkulProjesi\obj\Debug\Ders46_OkulProjesi.Form1.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders46-OkulProjesi\obj\Debug\Ders46_OkulProjesi.FrmDersler.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders46-OkulProjesi\obj\Debug\Ders46_OkulProjesi.FrmKulup.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders46-OkulProjesi\obj\Debug\Ders46_OkulProjesi.FrmOgrenci.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders46-OkulProjesi\obj\Debug\Ders46_OkulProjesi.FrmOgrenciNotlar.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders46-OkulProjesi\obj\Debug\Ders46_OkulProjesi.FrmOgretmen.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders46-OkulProjesi\obj\Debug\Ders46_OkulProjesi.FrmSinavNotlari.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders46-OkulProjesi\obj\Debug\Ders46_OkulProjesi.Properties.Resources.resources
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders46-OkulProjesi\obj\Debug\Ders46-OkulProjesi.csproj.GenerateResource.cache
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders46-OkulProjesi\obj\Debug\Ders46-OkulProjesi.csproj.CoreCompileInputs.cache
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders46-OkulProjesi\obj\Debug\Ders46-OkulProjesi.exe
+C:\Users\cagda\Masaüstü\Udemy-C#\A-Z C#\Ders46-OkulProjesi\obj\Debug\Ders46-OkulProjesi.pdb
+C:\Users\cagda\Masaüstü\projecalismalari\SchoolManagementProject\bin\Debug\Ders46-OkulProjesi.exe.config
+C:\Users\cagda\Masaüstü\projecalismalari\SchoolManagementProject\bin\Debug\Ders46-OkulProjesi.exe
+C:\Users\cagda\Masaüstü\projecalismalari\SchoolManagementProject\bin\Debug\Ders46-OkulProjesi.pdb
+C:\Users\cagda\Masaüstü\projecalismalari\SchoolManagementProject\obj\Debug\Ders46-OkulProjesi.csproj.AssemblyReference.cache
+C:\Users\cagda\Masaüstü\projecalismalari\SchoolManagementProject\obj\Debug\Ders46-OkulProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\cagda\Masaüstü\projecalismalari\SchoolManagementProject\obj\Debug\Ders46_OkulProjesi.Form1.resources
+C:\Users\cagda\Masaüstü\projecalismalari\SchoolManagementProject\obj\Debug\Ders46_OkulProjesi.FrmDersler.resources
+C:\Users\cagda\Masaüstü\projecalismalari\SchoolManagementProject\obj\Debug\Ders46_OkulProjesi.FrmKulup.resources
+C:\Users\cagda\Masaüstü\projecalismalari\SchoolManagementProject\obj\Debug\Ders46_OkulProjesi.FrmOgrenci.resources
+C:\Users\cagda\Masaüstü\projecalismalari\SchoolManagementProject\obj\Debug\Ders46_OkulProjesi.FrmOgrenciNotlar.resources
+C:\Users\cagda\Masaüstü\projecalismalari\SchoolManagementProject\obj\Debug\Ders46_OkulProjesi.FrmOgretmen.resources
+C:\Users\cagda\Masaüstü\projecalismalari\SchoolManagementProject\obj\Debug\Ders46_OkulProjesi.FrmSinavNotlari.resources
+C:\Users\cagda\Masaüstü\projecalismalari\SchoolManagementProject\obj\Debug\Ders46_OkulProjesi.Properties.Resources.resources
+C:\Users\cagda\Masaüstü\projecalismalari\SchoolManagementProject\obj\Debug\Ders46-OkulProjesi.csproj.GenerateResource.cache
+C:\Users\cagda\Masaüstü\projecalismalari\SchoolManagementProject\obj\Debug\Ders46-OkulProjesi.csproj.CoreCompileInputs.cache
+C:\Users\cagda\Masaüstü\projecalismalari\SchoolManagementProject\obj\Debug\Ders46-OkulProjesi.exe
+C:\Users\cagda\Masaüstü\projecalismalari\SchoolManagementProject\obj\Debug\Ders46-OkulProjesi.pdb
