@@ -19,10 +19,6 @@ namespace SchoolManagementProject
 
         private void picboxOgrenci_Click(object sender, EventArgs e)
         {
-            //FrmOgrenciNotlar frmOgrenciNotlar = new FrmOgrenciNotlar();
-            //frmOgrenciNotlar.numara = tbNumara.Text;
-            //frmOgrenciNotlar.Show(); 
-
             FrmOgrenciGiris frmOgrenciGiris = new FrmOgrenciGiris();
             this.Hide();
             frmOgrenciGiris.Show();
